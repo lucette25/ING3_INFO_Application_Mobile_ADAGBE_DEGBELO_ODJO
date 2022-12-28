@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ING3_INFO_Application_Mobile_ADAGBE_DEGBELO_ODJO.iml" filepath="$PROJECT_DIR$/.idea/ING3_INFO_Application_Mobile_ADAGBE_DEGBELO_ODJO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MovieWiki.iml" filepath="$PROJECT_DIR$/.idea/modules/MovieWiki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MovieWiki.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MovieWiki.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MovieWiki.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MovieWiki.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MovieWiki.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MovieWiki.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MovieWiki.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MovieWiki.app.unitTest.iml" />
     </modules>
   </component>
 </project>
